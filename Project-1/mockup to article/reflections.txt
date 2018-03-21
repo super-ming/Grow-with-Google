@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+  
+* What new skills have you learned?
+  
+I have learned new tags for strikethrough, superscript, and horizontal rule.
+
+* What has been easy?
+  
+It was easy to create image,heading,and url tags as they were covered in previous lessons.
+
+* What has been difficult?
+  
+The hardest thing was catching all the details in the mockup and making sure that my code covered everything.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+I just used google to research potential useful tags that I'm unfamiliar with. I was trying to figure out how to create line breaks without using the <b> tag. One of the
+search results reminded me that I could just separate the content into different paragraphs.
