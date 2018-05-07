@@ -1,0 +1,15 @@
+let colorPicker = document.getElementById('colorPicker');
+let pixelCanvas = document.getElementById('pixelCanvas');
+let sizePicker = document.getElementById('sizePicker');
+let inputHeight = document.getElementById('inputHeight');
+let inputWeight = document.getElementById('inputWeight');
+
+let height = inputHeight.val();
+let weight = inputWeight.val();
+
+function makeGrid() {
+    pixelCanvas.empty();
+    for (let rows = 0; rows < inputHeight; rows++){
+        pixelCanvas.append('<tr>');
+    }
+}
