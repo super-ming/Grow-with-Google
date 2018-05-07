@@ -1,0 +1,63 @@
+/* add your CSS here */
+
+body {
+  width:347px;
+  height:auto;
+}
+div{
+  display: block;
+  width:300px;
+}
+
+#container {
+  height: auto;
+  width: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  border:1px;
+  border-style: solid;
+  border-width: medium;
+  border-color: #FFBF00;
+  box-shadow: 5px 5px 0px #ebebeb;
+  background-color: #F5DA81;
+  border-radius: 5px;
+}
+
+#card {
+  border: solid;
+  border-width: thin;
+  border-color: #FE9A2E;
+  margin:1px 0px 10px 0px ;
+  padding: 0px 15px 0px 10px;
+  height: auto;
+  width: 91%;
+}
+
+#interesting-fact {
+  font-style:italic;
+  width:auto;
+  margin-left: 2px;
+}
+#facts {
+  font-weight: bold;
+  width: auto;
+  list-style-type: none;
+  background: none;
+  margin: 2px;
+}
+
+ul {
+  list-style-type: : none;
+  padding:0;
+}
+
+#summary {
+  width: auto;
+  padding-right:5px;
+}
+
+span {
+  font-weight: bold;
+  list-style-type: : none;
+}
